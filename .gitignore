@@ -1,0 +1,4 @@
+# Gitignore pour Clion:
+.idea/
+*.iws
+.idea_modules/
